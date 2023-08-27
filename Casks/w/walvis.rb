@@ -3,8 +3,8 @@ cask 'walvis' do
   desc "Manage Docker containers from the menu bar."
   homepage "https://github.com/ruggi/walvis"
 
-  version "1.12.4"
-  sha256 "66c6fc5e0a8534ac05f7c987e1a8e0ca792554817bcb9fb3b4635ce45675ff14"
+  version "1.12.5"
+  sha256 "4e0438bbf84635cab7b7c336c3b80a8f240e20c3d5ddb5a77dd701cf68b044fa"
 
   url "https://github.com/ruggi/walvis/releases/download/v#{version}/Walvis-#{version}.zip"
 
