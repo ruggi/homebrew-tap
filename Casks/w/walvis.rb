@@ -9,7 +9,6 @@ cask 'walvis' do
   url "https://github.com/ruggi/walvis/releases/download/v#{version}/Walvis-#{version}.zip"
 
   app "Walvis.app"
-  auto_updates true
 
   livecheck do
     url :url
